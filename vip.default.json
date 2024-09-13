@@ -45,12 +45,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.1-desktop}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.1-desktop}"
       },
       "type": "typography",
       "description": "For small captions on desktop header, cards,widgets"
@@ -60,12 +55,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.3}"
       },
       "type": "typography",
       "description": "Caption"
@@ -75,12 +65,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.m}",
-        "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.3}"
       },
       "type": "typography",
       "description": "Caption (unread)"
@@ -90,12 +75,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.m}",
-        "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.3}"
       },
       "type": "typography",
       "description": "Caption (unread)"
@@ -105,12 +85,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.4}"
       },
       "type": "typography",
       "description": "Body"
@@ -121,10 +96,6 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.4}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
         "textDecoration": "{text-decoration.line-through}"
       },
       "type": "typography",
@@ -135,12 +106,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.4}"
       },
       "type": "typography"
     },
@@ -149,12 +115,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.4}"
       },
       "type": "typography",
       "description": "Body (unread), button"
@@ -165,10 +126,6 @@
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.4}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
         "textDecoration": "{text-decoration.line-through}"
       },
       "type": "typography"
@@ -180,10 +137,7 @@
         "lineHeight": "13px",
         "fontSize": "{font-size.2}",
         "letterSpacing": "{letter-spacing.0,2}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.uppercase}",
-        "textDecoration": "{text-decoration.none}"
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
@@ -193,10 +147,6 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
         "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography",
@@ -207,12 +157,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.3}"
       },
       "type": "typography",
       "description": "Link text"
@@ -223,10 +168,6 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.4}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
         "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography",
@@ -237,12 +178,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.4}"
       },
       "type": "typography",
       "description": "Link text"
@@ -253,11 +189,7 @@
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.s}",
         "fontSize": "{font-size.2}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.capitalize}",
-        "textDecoration": "{text-decoration.none}"
+        "textCase": "{text-case.capitalize}"
       },
       "type": "typography",
       "description": "Caption (unread)"
@@ -269,10 +201,7 @@
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.3}",
         "letterSpacing": "{letter-spacing.0,5}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.uppercase}",
-        "textDecoration": "{text-decoration.none}"
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
@@ -281,12 +210,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.5}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.5}"
       },
       "type": "typography",
       "description": "Small titles"
@@ -296,12 +220,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.5}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.5}"
       },
       "type": "typography",
       "description": "Small titles"
@@ -312,11 +231,7 @@
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.4}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.uppercase}",
-        "textDecoration": "{text-decoration.none}"
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography",
       "description": "Titles on popup tabs (profile,cashbox)"
@@ -326,12 +241,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.5}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.5}"
       },
       "type": "typography",
       "description": "Small titles"
@@ -341,12 +251,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.5}",
-        "fontSize": "{font-size.7}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.7}"
       },
       "type": "typography",
       "description": "Email header"
@@ -356,12 +261,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.3}",
-        "fontSize": "{font-size.6}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.6}"
       },
       "type": "typography",
       "description": "Email header"
@@ -371,12 +271,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.5}",
-        "fontSize": "{font-size.7}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.7}"
       },
       "type": "typography",
       "description": "Email header"
@@ -386,12 +281,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.5}",
-        "fontSize": "{font-size.7}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.7}"
       },
       "type": "typography",
       "description": "Email header"
@@ -401,12 +291,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.5}",
-        "fontSize": "{font-size.7}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.7}"
       },
       "type": "typography",
       "description": "Email header"
@@ -416,12 +301,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.5}",
-        "fontSize": "{font-size.8}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.8}"
       },
       "type": "typography",
       "description": "Email header"
@@ -431,12 +311,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.3}",
-        "fontSize": "{font-size.6}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.6}"
       },
       "type": "typography",
       "description": "Page title"
@@ -446,12 +321,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.3}",
-        "fontSize": "{font-size.6}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.6}"
       },
       "type": "typography",
       "description": "Page title"
@@ -461,12 +331,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.2}",
-        "fontSize": "{font-size.6}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.6}"
       },
       "type": "typography",
       "description": "Title text for games group, top title in cashbox filter"
@@ -476,11 +341,6 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.0}",
         "fontSize": "9px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}",
         "lineHeight": "{line-height.xs}"
       },
       "type": "typography",
@@ -491,12 +351,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.3}",
-        "fontSize": "{font-size.6}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.6}"
       },
       "type": "typography",
       "description": "Email header"
@@ -506,12 +361,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.3}",
-        "fontSize": "{font-size.extra-2}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.extra-2}"
       },
       "type": "typography",
       "description": "main banner mob title"
@@ -521,11 +371,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.sm}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
         "textCase": "{text-case.uppercase}",
-        "textDecoration": "{text-decoration.none}",
         "fontSize": "12"
       },
       "type": "typography",
@@ -536,12 +382,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.3}",
-        "fontSize": "{font-size.7}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.7}"
       },
       "type": "typography",
       "description": "Homepage banner subtitle"
@@ -552,10 +393,6 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.5}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
         "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography",
@@ -567,11 +404,7 @@
         "fontWeight": "{font-weight.4}",
         "lineHeight": "{line-height.xs}",
         "fontSize": "{font-size.2}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.uppercase}",
-        "textDecoration": "{text-decoration.none}"
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography",
       "description": "text on tabs in welcome deposit"
@@ -582,11 +415,7 @@
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.xs}",
         "fontSize": "{font-size.0}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.uppercase}",
-        "textDecoration": "{text-decoration.none}"
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography",
       "description": "text on extra small tabs in welcome deposit"
@@ -596,12 +425,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.5}",
-        "fontSize": "{font-size.8}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.8}"
       },
       "type": "typography",
       "description": "welcome back popup submain header with bonus info"
@@ -612,11 +436,7 @@
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.uppercase}",
-        "textDecoration": "{text-decoration.none}"
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
@@ -625,12 +445,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.2}",
-        "fontSize": "{font-size.6}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.6}"
       },
       "type": "typography",
       "description": "tournament card currency"
@@ -4087,9 +3902,6 @@
         "lineHeight": "58px",
         "fontSize": "58px",
         "letterSpacing": "-3%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.uppercase}"
       },
       "type": "typography",
@@ -4101,10 +3913,6 @@
         "fontWeight": "{font-weight.3}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.1-desktop}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.none}"
       },
       "type": "typography",
@@ -4117,9 +3925,6 @@
         "lineHeight": "70px",
         "fontSize": "48px",
         "letterSpacing": "-5%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.none}"
       },
       "type": "typography",
@@ -4136,10 +3941,6 @@
         "fontWeight": "{font-weight.1}",
         "lineHeight": "44px",
         "fontSize": "38px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
       "type": "typography",
@@ -4151,10 +3952,6 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "44px",
         "fontSize": "38px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
       "type": "typography",
@@ -4166,10 +3963,6 @@
         "fontWeight": "{font-weight.2}",
         "lineHeight": "250px",
         "fontSize": "280px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
       "type": "typography",
@@ -4181,10 +3974,6 @@
         "fontWeight": "{font-weight.2}",
         "lineHeight": "160px",
         "fontSize": "180px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
       "type": "typography",
@@ -4234,9 +4023,6 @@
         "fontWeight": "{font-weight.2}",
         "lineHeight": "20px",
         "fontSize": "11px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.uppercase}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
@@ -4248,9 +4034,6 @@
         "fontWeight": "{font-weight.2}",
         "lineHeight": "8px",
         "fontSize": "6px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.uppercase}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
@@ -4262,10 +4045,6 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "6px",
         "fontSize": "4px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
       "type": "typography"
@@ -4276,10 +4055,6 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "7px",
         "fontSize": "6px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
       "type": "typography"
@@ -4332,10 +4107,6 @@
         "fontWeight": "{font-weight.2}",
         "lineHeight": "60px",
         "fontSize": "52px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
       "type": "typography",
@@ -4358,9 +4129,6 @@
         "lineHeight": "20px",
         "fontSize": "20px",
         "letterSpacing": "0",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.none}"
       },
       "type": "typography",
@@ -4372,9 +4140,6 @@
         "fontWeight": "{font-weight.4}",
         "lineHeight": "68px",
         "fontSize": "48px",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "1.92px"
       },
@@ -4526,9 +4291,6 @@
         "lineHeight": "36px",
         "fontSize": "32px",
         "letterSpacing": "-1%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.uppercase}"
       },
       "type": "typography",
@@ -4541,9 +4303,6 @@
         "lineHeight": "36px",
         "fontSize": "34px",
         "letterSpacing": "-1%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.none}"
       },
       "type": "typography",
@@ -4556,9 +4315,6 @@
         "lineHeight": "24px",
         "fontSize": "18px",
         "letterSpacing": "0%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.uppercase}"
       },
       "type": "typography",
@@ -4571,9 +4327,6 @@
         "lineHeight": "38px",
         "fontSize": "32px",
         "letterSpacing": "0%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.uppercase}"
       },
       "type": "typography",
@@ -4586,9 +4339,6 @@
         "lineHeight": "32px",
         "fontSize": "20px",
         "letterSpacing": "0%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.uppercase}"
       },
       "type": "typography",
@@ -4601,9 +4351,6 @@
         "lineHeight": "24px",
         "fontSize": "14px",
         "letterSpacing": "0%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.uppercase}"
       },
       "type": "typography",
@@ -4615,10 +4362,6 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "16px",
         "fontSize": "12px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.none}"
       },
       "type": "typography",
