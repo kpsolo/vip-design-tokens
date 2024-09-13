@@ -35,12 +35,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.m}",
-        "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontSize": "{font-size.3}"
       },
       "type": "typography",
       "description": "Caption"
