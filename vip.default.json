@@ -4893,6 +4893,16 @@
     "accent": {
       "value": "{base.accent-primary}",
       "type": "color"
+    },
+    "success-transparent": {
+      "value": "rgba(0,222,37,0.1)",
+      "type": "color",
+      "description": "success bg"
+    },
+    "warning-transparent": {
+      "value": "rgba(220,172,0,0.1)",
+      "type": "color",
+      "description": "warning bg"
     }
   },
   "tab": {
