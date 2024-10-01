@@ -4284,6 +4284,11 @@
         "description": "for bg under icons in achievement info block"
       }
     },
+    "prize-info-bg": {
+      "value": "linear-gradient(90deg, rgba(161, 111, 56, 0.60) 0%, rgba(119, 112, 96, 0.04) 100%)",
+      "type": "color",
+      "description": "for info cards prize in bonus popup"
+    },
     "jackpot-title-additional": {
       "value": {
         "fontFamily": "{font-family.main}",
