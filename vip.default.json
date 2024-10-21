@@ -4127,6 +4127,11 @@
           "value": "rgba(24,168,81,0.25)",
           "type": "color",
           "description": "label background"
+        },
+        "economy": {
+          "value": "rgba(252,186,43,0.25)",
+          "type": "color",
+          "description": "label background"
         }
       }
     },
