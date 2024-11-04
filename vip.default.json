@@ -5560,7 +5560,7 @@
         "description": "use for dropdown"
       },
       "overlay-additional": {
-        "value": "{bg.overlay-gradient.3}",
+        "value": "rgba(255, 255, 255, 0.10)",
         "type": "color",
         "description": "use for bg under prizes"
       },
