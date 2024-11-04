@@ -5579,7 +5579,7 @@
     },
     "border": {
       "item": {
-        "value": "transparent",
+        "value": "rgba(255, 255, 255, 0.10)",
         "type": "color",
         "description": "use as stroke for dropdown"
       }
