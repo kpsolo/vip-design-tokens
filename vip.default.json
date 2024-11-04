@@ -1642,7 +1642,7 @@
       "description": "for secret mirror bg border radius"
     },
     "item": {
-      "value": "{radius.button}",
+      "value": "{bg.info-blur}",
       "type": "borderRadius",
       "description": "use for hightlight player in gamepage/tournament "
     },
