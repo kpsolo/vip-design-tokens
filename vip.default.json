@@ -2171,7 +2171,7 @@
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "transparent",
+        "value": "linear-gradient(0deg, #000000 0%,rgba( 0, 0, 0, 0.00) 56%,  rgba( 0, 0, 0, 0.00) 100%)",
         "type": "color",
         "description": "use under link in messages\n\n[based on primary bg]"
       },
