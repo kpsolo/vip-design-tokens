@@ -2511,7 +2511,7 @@
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.60) 0%, rgba(224, 224, 224, 0.60) 100%)",
+        "value": "linear-gradient(180deg, rgba(255, 203, 102, 0.60) 0%, rgba(150, 89, 17, 0.60) 100%)",
         "type": "color",
         "description": "Background for secondary buttons disabled"
       },
@@ -2568,7 +2568,7 @@
         "description": "Icon color on a primary disabled button"
       },
       "secondary-disabled": {
-        "value": "rgba(0,0,0,0.4)",
+        "value": "#ffffff66",
         "type": "color",
         "description": "Icon color on a secondary disabled button"
       },
@@ -2714,7 +2714,7 @@
         "description": "Text color on primary disabled button"
       },
       "secondary-disabled": {
-        "value": "rgba(0,0,0,0.4)",
+        "value": "#ffffff80",
         "type": "color",
         "description": "Text color on secondary disabled button"
       },
