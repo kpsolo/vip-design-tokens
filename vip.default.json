@@ -1749,12 +1749,12 @@
         "description": "for cashbox bonus popup"
       },
       "cashbox-bonus-content": {
-        "value": "{base.accent-light}",
+        "value": "#FBF5EC",
         "type": "color",
         "description": "for cashbox bonus popup content"
       },
       "cashbox-bonus-content-opacity": {
-        "value": "{base.light}",
+        "value": "#FBF5EC",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
