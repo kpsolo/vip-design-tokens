@@ -2201,7 +2201,7 @@
         "description": "use on bottom of popups\n[based on nav.tab.stop ]"
       },
       "9": {
-        "value": "linear-gradient(180deg, #0B0907 0%, #0B0907 100%)",
+        "value": "linear-gradient(180deg, rgba(11, 9, 7, 0.00) 0%, #0B0907 64.84%)",
         "type": "color",
         "description": "use on message page under bottom link "
       },
