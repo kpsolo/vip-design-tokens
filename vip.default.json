@@ -3540,7 +3540,7 @@
         "description": "use for text in error field hint"
       },
       "disabled-value": {
-        "value": "rgba(237, 237, 237, 0.60)",
+        "value": "rgba(139, 139, 139, 0.60);",
         "type": "color",
         "description": "use for text in disabled field "
       },
