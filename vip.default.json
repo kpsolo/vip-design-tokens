@@ -4277,7 +4277,7 @@
           "description": "card last bg in main screen"
         },
         "3": {
-          "value": "#1F3189",
+          "value": "rgba(128, 64, 18, 0.2)",
           "type": "color",
           "description": "card first deposit bg in main screen"
         },
@@ -4297,7 +4297,7 @@
           "description": "bg for win cards"
         },
         "first-deposit": {
-          "value": "linear-gradient(178deg, rgba(35, 97, 118, 0.89) 1.63%, rgba(39, 85, 101, 0.16) 98.37%)",
+          "value": "linear-gradient(180deg, rgba(128, 64, 18, 0.20) 0%, rgba(128, 64, 18, 0.0) 100%)",
           "type": "color",
           "description": "card first deposit bg in main screen"
         }
