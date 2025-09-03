@@ -1047,7 +1047,7 @@
           "y": "4",
           "blur": "8",
           "spread": "0",
-          "color": "rgba(13, 22, 46, 0.40)",
+          "color": "rgba(46, 30, 13, 0.4)",
           "type": "dropShadow"
         },
         {
@@ -1055,15 +1055,7 @@
           "y": "1",
           "blur": "02",
           "spread": "0",
-          "color": "rgba(51, 65, 159, 0.60)",
-          "type": "innerShadow"
-        },
-        {
-          "x": "-28",
-          "y": "28",
-          "blur": "28",
-          "spread": "0",
-          "color": "rgba(255, 255, 255, 0.03)",
+          "color": "rgba(159, 109, 51, 0.6)",
           "type": "innerShadow"
         }
       ],
