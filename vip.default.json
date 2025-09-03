@@ -4188,7 +4188,7 @@
     "achievements": {
       "border": {
         "activity": {
-          "value": "{base.accent-primary}",
+          "value": "rgba(255, 171, 140, 0.70)",
           "type": "color",
           "description": "border for activity card"
         },
@@ -4198,17 +4198,17 @@
           "description": "use as stroke in last/progress achievements cards and info card"
         },
         "main-last": {
-          "value": "linear-gradient(158deg, #6F3BA8 0%, rgba(111, 59, 168, 0.43) 47.85%, #6F3BA8 85.44%)",
+          "value": "1px solid rgba(255, 255, 255, 0.10)",
           "type": "color",
           "description": "use as stroke in last achievements cards "
         },
         "main-progress": {
-          "value": "linear-gradient(158deg, #3D3BA8 0%, rgba(61, 59, 168, 0.43) 47.85%, #3D3BA8 85.44%)",
+          "value": "rgba(255, 255, 255, 0.10)",
           "type": "color",
           "description": "use as stroke in progress achievements cards "
         },
         "win": {
-          "value": "#1F3189",
+          "value": "rgba(222, 102, 81, 0.70)",
           "type": "color",
           "description": "border for win card"
         },
@@ -4267,12 +4267,12 @@
       },
       "card": {
         "1": {
-          "value": "#1F3189",
+          "value": "linear-gradient(150deg, #68451F 1.33%, rgba(19, 11, 9, 0.00) 100.69%)",
           "type": "color",
           "description": "card in progress bg in main screen"
         },
         "2": {
-          "value": "#1F3189",
+          "value": "linear-gradient(126deg, rgba(152, 78, 51, 0.50) 19.91%, rgba(76, 29, 11, 0.00) 94.25%)",
           "type": "color",
           "description": "card last bg in main screen"
         },
@@ -4287,12 +4287,12 @@
           "description": "achivements card"
         },
         "5": {
-          "value": "linear-gradient(133deg, rgba(113, 44, 200, 0.54) 13.54%, rgba(113, 44, 200, 0.16) 41.38%, rgba(113, 44, 200, 0.00) 63.15%), rgba(0, 0, 0, 0.16)",
+          "value": "linear-gradient(126deg, rgba(152, 78, 51, 0.50) 19.91%, rgba(76, 29, 11, 0.00) 94.25%)",
           "type": "color",
           "description": "bg for activity cards"
         },
         "6": {
-          "value": "linear-gradient(132deg, rgba(165, 59, 170, 0.54) 13.69%, rgba(165, 59, 170, 0.16) 38.75%, rgba(165, 59, 170, 0.00) 57.67%), rgba(0, 0, 0, 0.16)",
+          "value": "linear-gradient(143deg, #792F25 0.09%, rgba(29, 5, 5, 0.00) 98.08%)",
           "type": "color",
           "description": "bg for win cards"
         },
