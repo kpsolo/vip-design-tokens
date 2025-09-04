@@ -4185,7 +4185,7 @@
           "description": "border for activity card"
         },
         "main": {
-          "value": "linear-gradient(163deg, rgba(255, 255, 255, 0.35) 3.28%, rgba(71, 255, 185, 0.35) 84.38%)",
+          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.2) 3.28%, rgba(255, 255, 255, 0) 84.38%)",
           "type": "color",
           "description": "use as stroke in last/progress achievements cards and info card"
         },
