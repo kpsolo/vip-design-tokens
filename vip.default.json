@@ -4264,7 +4264,7 @@
           "description": "card in progress bg in main screen"
         },
         "2": {
-          "value": "linear-gradient(126deg, rgba(152, 78, 51, 0.50) 19.91%, rgba(76, 29, 11, 0.00) 94.25%)",
+          "value": "linear-gradient(127deg, rgba(152, 78, 51, 0.50) 24.14%, rgba(76, 29, 11, 0.00) 102.41%)",
           "type": "color",
           "description": "card last bg in main screen"
         },
@@ -4279,7 +4279,7 @@
           "description": "achivements card"
         },
         "5": {
-          "value": "linear-gradient(126deg, rgba(152, 78, 51, 0.50) 19.91%, rgba(76, 29, 11, 0.00) 94.25%)",
+          "value": "linear-gradient(127deg, rgba(152, 78, 51, 0.50) 24.14%, rgba(76, 29, 11, 0.00) 102.41%)",
           "type": "color",
           "description": "bg for activity cards"
         },
