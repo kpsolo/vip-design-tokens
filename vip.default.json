@@ -4305,7 +4305,7 @@
         "description": "for first deposit screen"
       },
       "overlay": {
-        "value": "rgba(151, 159, 215, 0.10)",
+        "value": "rgba(255, 168, 121, 0.15)",
         "type": "color",
         "description": "for bg under icons in achievement info block"
       }
