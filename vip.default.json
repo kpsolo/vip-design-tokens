@@ -217,7 +217,7 @@
     },
     "title-small-strong": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.5}"
@@ -227,7 +227,7 @@
     },
     "title-tab": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.4}",
@@ -248,7 +248,7 @@
     },
     "title-1-strong": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.5}",
         "fontSize": "{font-size.7}"
@@ -258,7 +258,7 @@
     },
     "title-2-strong": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.3}",
         "fontSize": "{font-size.6}"
@@ -268,7 +268,7 @@
     },
     "title-1": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.5}",
         "fontSize": "{font-size.7}"
@@ -278,7 +278,7 @@
     },
     "title-1-light": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.5}",
         "fontSize": "{font-size.7}"
@@ -298,7 +298,7 @@
     },
     "display": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.5}",
         "fontSize": "{font-size.8}"
@@ -328,7 +328,7 @@
     },
     "title-block": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.2}",
         "fontSize": "{font-size.6}"
@@ -338,7 +338,7 @@
     },
     "notification-bubble": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "fontSize": "9px",
         "lineHeight": "{line-height.xs}"
@@ -348,7 +348,7 @@
     },
     "title-1-stronger": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.3}",
         "fontSize": "{font-size.6}"
@@ -358,7 +358,7 @@
     },
     "title-3": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.3}",
         "fontSize": "{font-size.extra-2}"
@@ -368,7 +368,7 @@
     },
     "title-extrasmall": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.sm}",
         "textCase": "{text-case.uppercase}",
@@ -379,7 +379,7 @@
     },
     "banner": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.3}",
         "fontSize": "{font-size.7}"
@@ -442,7 +442,7 @@
     },
     "title-block-light": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.2}",
         "fontSize": "{font-size.6}"
