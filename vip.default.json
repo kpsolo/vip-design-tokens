@@ -3682,24 +3682,12 @@
     }
   },
   "font-family": {
-    "roboto": {
-      "value": "Roboto",
-      "type": "fontFamilies"
-    },
-    "inter": {
-      "value": "Inter",
-      "type": "fontFamilies"
-    },
     "main": {
       "value": "Fester VIP",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "{font-family.fester}",
-      "type": "fontFamilies"
-    },
-    "fester": {
-      "value": "Fester",
+      "value": "Fester VIP",
       "type": "fontFamilies"
     }
   },
