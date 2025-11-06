@@ -4204,7 +4204,7 @@
         }
       },
       "element": {
-        "value": "{base.accent-primary}",
+        "value": "rgba(128, 64, 18, 0.2)",
         "type": "color",
         "description": "fill for line in first screen"
       },
