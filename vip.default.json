@@ -2149,6 +2149,20 @@
           }
         },
         "description": "bg for social buttons in header - hover state"
+      },
+      "warning": {
+        "value": "#dcac00",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.16",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "for bg in warning items"
       }
     },
     "overlay-gradient": {
